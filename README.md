@@ -45,7 +45,7 @@ This project provides a comprehensive analysis of **Global Merchandise Trade fro
 🚀 **GitHub Repository:** [Brand-Reputation-Social-Media-Monitoring](https://github.com/pradip-data/Brand-Reputation-Social-Media-Monitoring)
 
 📌 **Project Overview**
-AfriTech Electronics Ltd. is facing critical challenges impacting its **brand reputation**, directly affecting **customer trust, sales performance, and market competitiveness**. The following key issues have been identified:
+AfriTech Electronics Ltd. is facing critical challenges impacting its **brand reputation**, directly affecting **customer trust, sales performance, and market competitiveness**. 
 This project analyzes **social media trends and customer feedback** to identify reputation risks and improve brand perception using **SQL and AI-driven analysis**.
 
 🛠️ **Skills & Technologies**
