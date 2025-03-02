@@ -2,7 +2,7 @@
 
 # 🎭 1.The Dark Side of Digital India: Cyber Crime Analysis
 
-🚀 **GitHub Repository:** [`Power-BI-Cyber-Crime-Dashboard`](https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard)  
+🚀 **GitHub Repository:** [GitHub Repository](https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard)  
 📊 **Dashboard Preview:** [Dashboard Preview](https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/blob/7a3fa3e8c8972e1b6cf23984c3af57f533f42135/Cyber%20Crime%20Analysis%20Power%20BI%20Dashboard.pbix)  
 
 ## 📌 Project Overview
