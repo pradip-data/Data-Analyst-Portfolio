@@ -57,3 +57,23 @@ This project analyzes **social media trends and customer feedback** to identify 
 📜 **Amdari** *(Social Media & Customer Feedback Data)*  
 
 📁 **Data Formats Used:** CSV
+
+---
+
+🎭 **4. Strategies to Combat Shopping Cart Abandonment & Boost Sales at E-Commerce**
+
+🚀 **GitHub Repository:** [Ecommerce-Sales-Optimization](https://github.com/pradip-data/Ecommerce-Sales-Optimization)
+
+📌 **Project Overview**
+Shopping cart abandonment is a significant challenge for e-commerce businesses, including **MagicMade**. Customers often add items to their carts but leave without completing the purchase, leading to revenue loss and reduced customer retention. This project leverages **Python, Power BI, and SQL** to analyze cart abandonment trends, identify key reasons, and suggest actionable strategies to improve conversions.
+
+🛠️ **Skills & Technologies**
+
+🔹 **Skills:** Data Analysis 📊 | SQL Queries ⚡ | Data Cleaning 🧹 | Trend Analysis 📈 | Statistical Insights 📉 | AI-Generated Reports 🤖  
+🔹 **Technology:** Python 🐍 | SQL 📜 | MySQL 🛢️ | Power BI 🔵 | Power Query ⚙️ | ChatGPT AI 🤖 | Pandas 📊 | Numpy 🔢 | Matplotlib 📉 | Seaborn 📈 | Python Visualization Reports 📑 | ChatGPT AI Conclusion Reports 📝
+
+📂 **Data Sources**
+📜 **Amdari** *(E-Commerce Shopping Behavior Data)*  
+
+📁 **Data Formats Used:** CSV
+
