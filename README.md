@@ -1,4 +1,46 @@
 
+# 📊 Pradip's Data Analyst Portfolio  
+👨‍💻 **Data Analyst | SQL | Python | Power BI | BigQuery | AI-Driven Insights**  
+
+🔗 **[LinkedIn](your-linkedin-profile)** | 📧 **Email:** your-email@example.com | 🏆 **[GitHub](https://github.com/pradip-data/)**  
+
+---
+
+## 🚀 About Me  
+I am a  Mangroliya Pradip **data analyst** with expertise in **data visualization, SQL, Python, and AI-powered analytics**. I specialize in **interactive dashboards, business intelligence, and advanced data insights** to support data-driven decision-making.  
+
+💡 Passionate about transforming raw data into actionable insights using **Power BI, SQL, Python, and AI**.  
+
+---
+
+## 🛠️ Technical Skills  
+
+✅ **Business Intelligence & Visualization:**  
+- Power BI, Power Query, Power Pivot  
+- Microsoft Excel, Advanced Excel  
+- Looker Studio (Basic Knowledge)  
+
+✅ **Programming & Data Processing:**  
+- Python (Numpy, Pandas, Matplotlib, Seaborn)  
+- SQL (MySQL, PostgreSQL, Google BigQuery)  
+- Web Scraping (Python, ChatGPT AI)  
+- ChatGPT Prompt Writing  
+
+✅ **Databases & Cloud:**  
+- Google BigQuery  
+- Basic Knowledge of Cloud Data Warehousing  
+
+✅ **Web Technologies (Basic Knowledge):**  
+- HTML5, CSS3, Bootstrap  
+
+✅ **AI & Automation:**  
+- AI-Driven Data Analysis  
+- ChatGPT AI Insights & Report Generation  
+
+---
+
+## 🏆 Featured Projects  
+
 ## 🎭 **1. The Dark Side of Digital India: Cyber Crime Analysis**
 
 🚀 **GitHub Repository:** [Power-BI-Cyber-Crime-Dashboard](https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard)
