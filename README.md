@@ -81,3 +81,27 @@ Shopping cart abandonment is a significant challenge for e-commerce businesses, 
 
 📁 **Data Formats Used:** CSV
 
+---
+
+🎭 **5. MSME Growth, Contribution & Financial Challenges in India**
+
+🚀 **GitHub Repository:** [India-MSME-Dynamics](https://github.com/pradip-data/India-MSME-Dynamics)
+
+📌 **Project Overview**
+
+This **Power BI and Power Query** project provides an **in-depth analysis of MSME (Micro, Small, and Medium Enterprises) Growth, Contribution, and Financial Challenges in India**. The study explores MSME **formalization, female entrepreneurship, manufacturing sector insights, employment trends, GDP contribution, and financial gaps**.
+
+🛠️ **Skills & Technologies**
+
+🔹 **Skills:** Data Visualization 📊 | Business Intelligence 📈 | Financial Data Analysis 📉 | Report Automation 📝 | AI-Generated Reports 🤖  
+🔹 **Technology:** Power BI 🔵 | Power Query ⚙️ | ChatGPT AI 🤖 | Web Scraping 🌐 | AI Conclusion Report 📝
+
+📂 **Data Sources**
+📜 **Udyam Registration Portal**  
+📜 **MSME Dashboard (Ministry of MSME)**  
+📜 **MSME Finance Gap**  
+📜 **Government Reports & Economic Surveys**  
+📜 **World Bank**  
+📜 **Industry Research on MSME Financial Gaps**  
+
+📁 **Data Formats Used:** CSV, PDF, Website
