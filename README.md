@@ -153,7 +153,29 @@ This **Power BI and Power Query** project provides an in-depth analysis of **MSM
 📁 **Data Formats Used: ** CSV, PDF, Web Scraping
 
 
+## 🎖️ Certifications  
 
+📜 **Project-Based Certifications:**  
+1. [Product Campaign Metrics - Comparing Marketing Campaigns](https://github.com/pradip-data/Data-Analyst-Portfolio/blob/7aac1be0544f902d8383558aa02caf0f245f955c/Certificates/Product%20Campaign%20Metrics%20Comparing%20Marketing%20Campaigns%20project%20certificate.pdf)  
+2. [Route Optimization for Food Delivery](https://github.com/pradip-data/Data-Analyst-Portfolio/blob/7aac1be0544f902d8383558aa02caf0f245f955c/Certificates/Route%20Optimization%20for%20Food%20Delivery%20Improving%20Delivery%20project%20certificate.pdf)  
+3. [Comprehensive Cybersecurity Risk Analysis](https://github.com/pradip-data/Data-Analyst-Portfolio/blob/7aac1be0544f902d8383558aa02caf0f245f955c/Certificates/Securing%20the%20Future%20Comprehensive%20Cybersecurity%20Risk%20Analysis%20project%20certificate.pdf)  
+4. [Product Quality vs. Return Rate Analysis](https://github.com/pradip-data/Data-Analyst-Portfolio/blob/7aac1be0544f902d8383558aa02caf0f245f955c/Certificates/Unveiling%20the%20Nexus%20A%20Detailed%20Analysis%20of%20Product%20Quality%20vs.%20Return%20Rate%20project%20certificate.pdf)  
+
+📜 **Technical Certifications:**  
+5. [Advanced Excel](https://github.com/pradip-data/Data-Analyst-Portfolio/blob/7aac1be0544f902d8383558aa02caf0f245f955c/Certificates/advance%20excel.pdf)  
+6. [AI ChatGPT](https://github.com/pradip-data/Data-Analyst-Portfolio/blob/7aac1be0544f902d8383558aa02caf0f245f955c/Certificates/ai%20chatgpt.pdf)  
+7. [SQL Certification](https://github.com/pradip-data/Data-Analyst-Portfolio/blob/7aac1be0544f902d8383558aa02caf0f245f955c/Certificates/certificate-sql.pdf)  
+8. [Data Analysis using Microsoft Excel (Coursera)](https://github.com/pradip-data/Data-Analyst-Portfolio/blob/7aac1be0544f902d8383558aa02caf0f245f955c/Certificates/coursera-Introduction%20to%20Data%20Analysis%20using%20Microsoft.pdf)  
+9. [Dashboard Mastery](https://github.com/pradip-data/Data-Analyst-Portfolio/blob/7aac1be0544f902d8383558aa02caf0f245f955c/Certificates/dashboard%20mastery.pdf)  
+10. [Power BI Certification](https://github.com/pradip-data/Data-Analyst-Portfolio/blob/7aac1be0544f902d8383558aa02caf0f245f955c/Certificates/power%20bi.pdf)  
+11. [Power Query Certification](https://github.com/pradip-data/Data-Analyst-Portfolio/blob/7aac1be0544f902d8383558aa02caf0f245f955c/Certificates/power%20query.pdf)  
+12. [Python Developer Certification](https://github.com/pradip-data/Data-Analyst-Portfolio/blob/7aac1be0544f902d8383558aa02caf0f245f955c/Certificates/python%20developer.pdf)  
+
+---
+
+## 🎯 How to Reach Me  
+🔗 **[LinkedIn](your-linkedin-profile)**  
+📧 **Email:** pradipias2023@gmail.com 
 
 
 
