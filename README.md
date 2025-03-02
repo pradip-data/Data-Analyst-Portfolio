@@ -6,8 +6,8 @@
 This project provides an in-depth analysis of **cyber crime trends in India** using **Power BI**. It highlights crime patterns, affected demographics, and key insights based on official reports from **NCRB, PIB, and RBI**. The dashboard enables **interactive exploration** of state-wise crime trends, yearly data variations, and cyber fraud categories.
 
 🛠️ **Skills & Technologies**
-🔹 **Skills:** Data Visualization 📊 | ETL with Power Query ⚡ | Report Automation 📝 | Trend Analysis 📈 | Statistical Insights 📉 | Interactive Dashboard Creation 📟 | Data Storytelling 🗣️  
-🔹 **Technology:** Power BI 🔵 | Power Query ⚙️ | ChatGPT AI 🤖 | CSV/PDF Data Extraction 📁 | Web Scraping 🌐
+-🔹 **Skills:** Data Visualization 📊 | ETL with Power Query ⚡ | Report Automation 📝 | Trend Analysis 📈 | Statistical Insights 📉 | Interactive Dashboard Creation 📟 | Data Storytelling 🗣️  
+-🔹 **Technology:** Power BI 🔵 | Power Query ⚙️ | ChatGPT AI 🤖 | CSV/PDF Data Extraction 📁 | Web Scraping 🌐
 
 📂 **Data Sources**
 📜 **NCRB Report 2022** *(National Crime Records Bureau)*  
@@ -27,8 +27,8 @@ This project provides an in-depth analysis of **cyber crime trends in India** us
 This project provides a comprehensive analysis of **Global Merchandise Trade from 1947 to 2023** using **Google BigQuery and Python**. It explores trade trends, country-wise performance, and economic impacts based on **official WTO trade statistics**.
 
 🛠️ **Skills & Technologies**
-🔹 **Skills:** Data Analysis 📊 | SQL Queries ⚡ | Data Cleaning 🧹 | Trend Analysis 📈 | Statistical Insights 📉 | AI-Generated Reports 🤖  
-🔹 **Technology:** Google BigQuery 🔵 | Python 🐍 | Pandas 📊 | Numpy 🔢 | Matplotlib 📉 | Seaborn 📈 | ChatGPT AI 🤖 | AI Report Generator 📑  
+-🔹 **Skills:** Data Analysis 📊 | SQL Queries ⚡ | Data Cleaning 🧹 | Trend Analysis 📈 | Statistical Insights 📉 | AI-Generated Reports 🤖  
+-🔹 **Technology:** Google BigQuery 🔵 | Python 🐍 | Pandas 📊 | Numpy 🔢 | Matplotlib 📉 | Seaborn 📈 | ChatGPT AI 🤖 | AI Report Generator 📑  
 
 📂 **Data Sources**
 📜 **Official WTO Merchandise Trade Statistics**  
