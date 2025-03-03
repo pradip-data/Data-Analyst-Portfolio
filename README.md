@@ -2,7 +2,7 @@
 # 📊 Pradip's Data Analyst Portfolio  
 👨‍💻 **Data Analyst | SQL | Python | Power BI | BigQuery | AI-Driven Insights**  
 
-🔗 **[LinkedIn](your-linkedin-profile)** | 📧 **Email:** pradipias2023@gmail.com | 🏆 **[GitHub](https://github.com/pradip-data)**  
+🔗 **[LinkedIn](www.linkedin.com/in/pradipmangroliya)** | 📧 **Email:** pradipias2023@gmail.com | 🏆 **[GitHub](https://github.com/pradip-data)**  
 
 ---
 
@@ -176,7 +176,7 @@ This **Power BI and Power Query** project provides an in-depth analysis of **MSM
 ---
 
 ## 🎯 How to Reach Me  
-🔗 **[LinkedIn](your-linkedin-profile)**  
+🔗 **[LinkedIn](www.linkedin.com/in/pradipmangroliya)**  
 📧 **Email:** pradipias2023@gmail.com 
 
 
