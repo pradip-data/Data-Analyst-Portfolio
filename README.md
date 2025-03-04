@@ -2,7 +2,7 @@
 # 📊 Pradip's Data Analyst Portfolio  
 👨‍💻 **Data Analyst | SQL | Python | Power BI | BigQuery | AI-Driven Insights**  
 
- | 📧 **Email:** pradipias2023@gmail.com | 🏆 **[GitHub](https://github.com/pradip-data)**  
+ | 📧 **Email:** pradipias2023@gmail.com | 🏆 **[GitHub](https://github.com/pradip-data)** | **[linkdin](https://www.linkedin.com/in/pradipmangroliya/)**
 
 ---
 
